@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "afb01c04_26086963",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019448
+      },
+      "writtenOn": "2021-09-13T13:56:49Z",
+      "side": 1,
+      "message": "Just add a new line to the test.txt file",
+      "revId": "d9f3c91be6e87bd7faff9210379bd1316a3833e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
